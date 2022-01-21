@@ -1,2 +1,2 @@
 # Monte_Carlo_pi
-A stochastic approximation of pi using Monte Carlo simulation
+A stochastic approximation of pi using a Monte Carlo simulation method
